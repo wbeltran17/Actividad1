@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Actividad #1</string>
+    <string name="nameTxt">Ingrese su nombre</string>
+    <string name="welcomeTxt">Bienvenido </string>
+    <string name="hypoTxt">Hallar hipotenusa</string>
+    <string name="oppositeSideTxt">Cateto opuesto</string>
+    <string name="adjacentSideTxt">Cateto adyacente</string>
+    <string name="hypoResultTxt">La hipotenusa es :</string>
+    <string name="decimalTxt">Convertir a decimal</string>
+    <string name="binaryNumberTxt">Numero Binario:</string>
+    <string name="binaryTxt">Convertir a binario</string>
+    <string name="decimalNumberTxt">Numero Decimal:</string>
+    <string name="calculateTxt">Calcular</string>
+    <string name="resultTxt">Resultado :</string>
+    <string name="returnTxt">Volver</string>
+    <string name="exitTxt">Salir</string>
+</resources>
