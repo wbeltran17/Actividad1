@@ -34,13 +34,13 @@
             android:text="@string/hypoTxt" />
 
         <Button
-            android:id="@+id/decimalBtn"
+            android:id="@+id/binaryBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/decimalTxt" />
 
         <Button
-            android:id="@+id/binaryBtn"
+            android:id="@+id/decimalBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/binaryTxt" />
